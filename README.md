@@ -1,7 +1,7 @@
 # chessgame
 
-Chess Game
-A simple yet functional console-based Chess game implemented in Java. The game replicates the core mechanics of chess and ensures that each piece adheres to its movement rules. It is designed for players who want to enjoy a basic chess game or for developers who wish to learn or experiment with chess game mechanics.
+**Chess Game**
+<h4>A simple yet functional console-based Chess game implemented in Java. The game replicates the core mechanics of chess and ensures that each piece adheres to its movement rules. It is designed for players who want to enjoy a basic chess game or for developers who wish to learn or experiment with chess game mechanics.</h4>
 
 Features
 Players:
